@@ -15,7 +15,7 @@
 ## Project Period 📄
 - 2021/07/12 ~ 2021/07/30
 
-## What we can Think
+## What we can Think of 🤔
 As a result of our Analysis, Credit_History, LoanAmount and Income related variables were most important features for Loan Approval<br/>
 우리가 주요 모델로 사용한 랜덤포레스트 모델에 따르면, 신용기록과 대출규모 및 소득 관련 변수들이 대출승인에 중요한 요소들이 되었다. 
 <br/>
