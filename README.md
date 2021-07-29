@@ -19,7 +19,7 @@
 As a result of our Analysis, Credit_History, LoanAmount and Income related variables were most important features for Loan Approval. 
 우리가 주요 모델로 사용한 랜덤포레스트 모델에 따르면, 신용기록과 대출규모 및 소득 관련 변수들이 대출승인에 중요한 요소들이 되었다. 
  
-1. Credit_History(신용 기록)
+1. Credit_History(신용 기록). 
  People with Credit History were more likely to get a loan approved. The financial industry (except BigTech/FinTech) evaluates an individual's credit ratings based on their credit history, such as whether they have used a credit card or not, and past loan experience. However, this method has a disadvantage in that it cannot accurately evaluate thin-filers(people who don't have credit history but ability to repay the debt - ex. student, housewife etc). We can see these characteristics from the data we used. In this situation, we need to think about a more reasonable way to rate individual's credit. Many of Fintech companies are making these effort
 
 
